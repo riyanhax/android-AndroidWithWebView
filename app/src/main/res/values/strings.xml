@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android WebView App</string>
+
+    <string name="label_loading">Aguarde...</string>
+
+    <!-- Slides -->
+    <string name="title_activity_welcome">Inicio</string>
+    <string name="next">PROXIMO</string>
+    <string name="skip">PULAR</string>
+    <string name="start">Iniciar</string>
+    <string name="slide_1_title">Marketing</string>
+    <string name="slide_1_desc">Um aplicativo é um otimo canal para Divulgar promoções, eventos e lançamentos em tempo real.</string>
+
+    <string name="slide_2_title">Praticidade</string>
+    <string name="slide_2_desc">Um aplicativo oferece diversas informações essenciais para o seu usuario de maneira rápida e prática.</string>
+
+    <string name="play_again">Ver de novo</string>
+    <string name="title_activity_login">Cadastre-se</string>
+</resources>
